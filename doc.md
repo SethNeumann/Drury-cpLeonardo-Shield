@@ -1,10 +1,10 @@
-### How to use this template:
+The original cpNode used a Leonardo-based protoyping board called a BB-Leo.  Chuck Catania like Leonardo because the
+2nd serial port made for easier serial debugging as the cpNode needed D0/D1 (TX/RX) to implement the CMRINet.  In 2021
+Modern Device discontinued the BB-Leo, so we moved the basic cpNode to the ProMini resulting in the cpNode-PM, we also made 
+an adapter board with a Pro-Mini that fit into a standard cpNode, called a BB-ProMini.
 
-  1. Create a repo using this template, 
-  2. Create your project content using eagle...
-  3. Edit the other text files to describe your project
-  4. git add .
-  5. git commit -m "add to git"
-  6. git tag -a 1.0 -m 1.0
-  7. git push origin 1.0
-  
+Dennis Drury like the Leonardo and wanted to keep the code compatible, so he designed this shield form factor board that 
+plugs onto a standard (Uno form factor) Leonardo.  It supports the I2C chain so you can use standard IOXs (or any other
+shield you like if you want to write customer code).  
+
+This is a great complement to cpNode, cpNode-PM, Andrew Deak's MegaNode and of course the classic JLC SMINI and SUSIC.
