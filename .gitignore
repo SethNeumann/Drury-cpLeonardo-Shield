@@ -6,3 +6,11 @@ cpLeoNode_V3_0.parts.xlsx
 *.gpi
 *.s#1
 *.s##
+*.GBL
+*.GBO
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS

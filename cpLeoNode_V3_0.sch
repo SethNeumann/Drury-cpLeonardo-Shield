@@ -8382,6 +8382,14 @@ speed range with 0.1uF and 12k</text>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,162.56,172.72,U2,VCC+,VCC,,,"/>
+<approved hash="202,1,203.2,170.18,U1,SHDN,,,,"/>
+<approved hash="105,1,44.45,40.64,N$35,,,,,"/>
+<approved hash="111,1,43.18,40.64,N$35,,,,,"/>
+<approved hash="113,1,205.672,81.9573,J3,,,,,"/>
+<approved hash="113,1,23.5373,134.552,J4,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
