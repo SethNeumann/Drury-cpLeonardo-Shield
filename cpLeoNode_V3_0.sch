@@ -7373,7 +7373,7 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <wire x1="162.56" y1="193.04" x2="162.56" y2="215.9" width="0.1524" layer="97"/>
 <wire x1="162.56" y1="215.9" x2="124.46" y2="215.9" width="0.1524" layer="97"/>
 <wire x1="124.46" y1="215.9" x2="124.46" y2="193.04" width="0.1524" layer="97"/>
-<text x="279.4" y="2.54" size="1.27" layer="97" font="vector">Rev: v3.1</text>
+<text x="279.4" y="2.54" size="1.27" layer="97" font="vector">Rev: v3.3</text>
 <text x="248.92" y="1.27" size="1.27" layer="97" font="vector">Date: 03/04/2018
 08/20/19, 05/06/22</text>
 <text x="248.92" y="7.62" size="1.27" layer="97" font="vector">Title: CPNODE</text>
